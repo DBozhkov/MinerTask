@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempWork", "ConsoleApp7\TempWork.csproj", "{7BB304B7-BB70-440C-98A5-7151B3F46528}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB304B7-BB70-440C-98A5-7151B3F46528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB304B7-BB70-440C-98A5-7151B3F46528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB304B7-BB70-440C-98A5-7151B3F46528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB304B7-BB70-440C-98A5-7151B3F46528}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A0564B9-59C3-44F3-B119-4238DA75A5E4}
+	EndGlobalSection
+EndGlobal
